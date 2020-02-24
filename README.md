@@ -1,4 +1,4 @@
-# OpenHMD
+# OpenHMD [![Build Status](https://travis-ci.org/KohaAloha/OpenHMD.svg?branch=master)](https://travis-ci.org/KohaAloha/OpenHMD)
 This project aims to provide a Free and Open Source API and drivers for immersive technology, such as head mounted displays with built in head tracking.
 
 ## License
